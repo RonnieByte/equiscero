@@ -3,8 +3,8 @@
 
 ## Características
 
-Juego también conocido como tres en línea y en ingles como tic tac toe.
-El juego consiste en una partida de dos jugadores, los cuales deben llenar un tablero de 3x3 con el elemento X (equis) y el elemento cero (0)
+Juego también conocido como tres en línea y en inglés como tic tac toe.
+El juego consiste en una partida de dos jugadores, los cuales deben llenar un tablero de 3x3 con el elemento X (equis) y el elemento 0 (cero).
 Cada jugador tiene un turno, el primero que inicia es el jugador con el elemento X.
 El siguiente turno es para el elemento 0, el jugador puede colocar en cualquier campo del tablero.
 Gana el jugador que complete tres elementos consecutivos ya sea verticales, horizontales o diagonales.
@@ -19,11 +19,11 @@ El juego se puede colocar en un servidor apache, node.js u otro, y se puede juga
 
 Puedes contribuir al juego de la siguiente manera.
 
-- Agregar animaciones al juego, ya sea en CSS o javascript que lo hagan mas llamativo.
+- Agregar animaciones al juego, ya sea en CSS o javascript que lo hagan más llamativo.
 - Establecer diferentes apariencias para el juego, ya sea otro tipo de letra o fondo y colores.
 - Agregar contador de partidas ganadas por cada jugador, y que no cuente los empates.
 - Permitir rotar el elemento X y 0 en cada partida, para dar la oportunidad de que cada jugador pueda comenzar primero y no siempre el mismo jugador tenga el elemento X.
-- Otra modificación podría ser tener un ganador de juego si gana 3 partidas de 5, por ejemplo.
+- Otra modificación que podría ser incluida es, tener un ganador de juego si gana 3 partidas de 5, por ejemplo.
 
 
 ## Licencia
