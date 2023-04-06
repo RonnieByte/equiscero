@@ -1,7 +1,7 @@
-#EQUIS CERO
+# EQUIS CERO
         
 
-##Características
+## Características
 
 Juego también conocido como tres en línea y en ingles como tic tac toe.
 El juego consiste en una partida de dos jugadores, los cuales deben llenar un tablero de 3x3 con el elemento X (equis) y el elemento cero (0)
@@ -10,12 +10,12 @@ El siguiente turno es para el elemento 0, el jugador puede colocar en cualquier 
 Gana el jugador que complete tres elementos consecutivos ya sea verticales, horizontales o obliquos.
 De haber empate se debe repetir la partida, hasta tener un ganador.
 
-##Requisitos previos
+## Requisitos previos
 
 El juego se puede colocar en un servidor apache, node.js u otro, y se puede jugar en cualquier navegador que soporte javascript.
 
 
-##Contribución
+## Contribución
 
 Puedes contribuir al juego de la siguiente manera.
 
@@ -26,7 +26,7 @@ Puedes contribuir al juego de la siguiente manera.
 - Otra modificación podría ser tener un ganador de juego si gana 3 partidas de 5, por ejemplo.
 
 
-##Licencia
+## Licencia
 
 Licencia MIT: Se ha establecido este codigo como licencia MIT de software libre, lo que permite cualquier modificación y distribución de código sin restricción.
 Se prohibe la inclusión de código malisioso, como también código que permita la recolección de datos del computador, navegador, ni otra solicitud a los que interactuan que no sea un nombre o alias para identificar al jugador de la partida.
