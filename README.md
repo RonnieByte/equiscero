@@ -7,7 +7,7 @@ Juego también conocido como tres en línea y en ingles como tic tac toe.
 El juego consiste en una partida de dos jugadores, los cuales deben llenar un tablero de 3x3 con el elemento X (equis) y el elemento cero (0)
 Cada jugador tiene un turno, el primero que inicia es el jugador con el elemento X.
 El siguiente turno es para el elemento 0, el jugador puede colocar en cualquier campo del tablero.
-Gana el jugador que complete tres elementos consecutivos ya sea verticales, horizontales o obliquos.
+Gana el jugador que complete tres elementos consecutivos ya sea verticales, horizontales o diagonales.
 De haber empate se debe repetir la partida, hasta tener un ganador.
 
 ## Requisitos previos
