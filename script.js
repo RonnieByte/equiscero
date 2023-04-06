@@ -1,10 +1,12 @@
 // definición de la variable tablero
 const board = ['','','','','','','','',''];
+
 //definición de las variables que mantendrán los nombres de los jugadores.
 let currentPlayer = '';
 let winner='';
 let name1 = '';
 let name2 = '';
+
 //selector de todas las celdas del tablero mediante la clase cell
 const cells = document.querySelectorAll('.cell');
 //selector del elemento que mostrará los mensajes
